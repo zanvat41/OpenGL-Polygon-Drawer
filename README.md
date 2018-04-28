@@ -1,0 +1,1 @@
+An Polygon Drawer written in open gl. Used Midpoint Algorithm for line drawing, and sweep-line algorithm for filling the polygons.
